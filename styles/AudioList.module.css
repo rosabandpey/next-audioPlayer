@@ -1,0 +1,11 @@
+.boxListCard {
+  overflow-y: scroll;
+  height: 800px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.divListCard {
+  width: 70%;
+}

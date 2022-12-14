@@ -1,0 +1,33 @@
+.divCard {
+  display: flex;
+  width: 50%;
+}
+
+.boxCard {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.cardMedia {
+  width: 100%;
+  position: relative;
+}
+
+.boxAudio {
+  display: flex;
+  align-items: center;
+  padding-left: 8px;
+  padding-bottom: 8px;
+}
+
+.cardPlayer {
+  display: flex;
+  width: 70%;
+}
+
+.boxPlayer {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
